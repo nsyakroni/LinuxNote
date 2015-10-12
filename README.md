@@ -1,0 +1,2 @@
+# LinuxNote
+Catatan mengenai linux
